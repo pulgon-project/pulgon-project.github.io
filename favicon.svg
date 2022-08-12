@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="180" height="180" version="1.1" viewBox="0 0 47.625 47.625" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g transform="translate(-53.602 -98.019)">
+  <g transform="matrix(.7133 0 0 .7133 15.367 28.102)" stroke-miterlimit="10">
+   <rect x="53.7" y="98.117" width="66.571" height="66.571" ry="1.5853" fill="#34353e" stop-color="#000000" stroke="#2e3436" stroke-width=".19585"/>
+   <g transform="translate(11.256 16.103)">
+    <path d="m68.988 130.02-3.5111-2.0272 1.2425-11.845 14.505-16.558 4.4877 2.591-7.0874 20.841z" fill="#ff9f43" stop-color="#000000" stroke="#ff9f43" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.6"/>
+    <g transform="matrix(.4614 .26639 -.26639 .4614 -5.9764 40.134)" fill="none" stroke="#34353e" stroke-miterlimit="10" stroke-width="1.877">
+     <path d="m198.75 21.481h7.3262"/>
+     <path d="m198.75 26.772h7.3262"/>
+     <path d="m196.71 32.064h11.402"/>
+     <path d="m196.71 37.356h11.402"/>
+     <path d="m196.71 42.647h11.402"/>
+     <path d="m196.71 47.939h11.402"/>
+     <path d="m196.71 53.231h11.402"/>
+     <path d="m198.75 58.523h7.3262"/>
+     <path d="m198.75 63.814h7.3262"/>
+    </g>
+    <circle transform="rotate(30)" cx="125.77" cy="44.058" r="2.2391" fill="#b2643c" stop-color="#000000"/>
+    <ellipse transform="rotate(30)" cx="120.14" cy="44.058" rx="2.239" ry="2.2391" fill="#b2643c" stop-color="#000000"/>
+    <g transform="matrix(.4614 .26639 -.26639 .4614 -5.9764 40.134)" fill="none" stroke="#ff9f43" stroke-miterlimit="10" stroke-width="3.9416">
+     <path d="m208.58 21.401h13.444l4.8365-29.761"/>
+     <path d="m196.24 21.401h-13.444l-4.8365-29.761"/>
+     <path d="m210.95 33.356h12.769l21.519 21.519"/>
+     <path d="m193.87 33.356h-12.769l-21.519 21.519"/>
+     <path d="m213.53 46.358 9.5303 10.933v45.027"/>
+     <path d="m191.29 46.358-9.5303 10.933v45.027"/>
+     <path d="m192.7 58.459 2.3474 30.327"/>
+     <path d="m212.12 58.459-2.3474 30.327"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

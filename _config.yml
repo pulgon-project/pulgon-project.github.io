@@ -1,1 +1,28 @@
-theme: jekyll-theme-midnight
+plugins:
+  - rouge
+  - jemoji
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+title: PULGON project website
+name: Jesús Carrete Montaña
+email: jesus.carrete.montana@tuwien.ac.at
+description: Phonons Understood via Line Groups Of Nanomaterials
+date_format: "%Y-%m-%d"
+
+minima:
+  date_format: "%Y-%m-%d"
+
+sass:
+    sass_dir: _sass
+
+kramdown:
+  syntax_highlighter: rouge
+
+header_pages:
+  - motivation.md
+  - objectives.md
+  - team.md
+  
