@@ -34,3 +34,13 @@ Jesús Carrete has published more than 120 articles in peer-reviewed journals an
 </p>
 
 Yu Jie Cen is a PhD student at the Department for Theoretical Materials Chemistry of TU Wien. He graduated in June 2023 from the South China University of Technology with a bachelor's degree and a master's degree in Condensed Matter Physics. His areas of interest include first-principles computations, machine learning, calculations of materials' properties and structure search. His work in PULGON revolves around nanotubes and he is also involved in laying the foundations of the framework to harness line groups.
+
+***
+
+<p align="center">
+  <img src="/images/Wieser-Sandro.jpg" alt="Portrait of Yu Jie Cen" width="30%">
+</p>
+
+Sandro Wieser is a postoctoral researcher at the Department for Theoretical Materials Chemistry of TU Wien. He graduated with a PhD degree in Physics at the Institute of Solid-State Physics at TU Graz in October 2023, where he had previously obtained a bachelor's degree in Technical Physics and a master's degree in Advanced Materials Science. His main area of research is the analysis of thermal transport in complex materials using computational approaches. Through the application of molecular dynamics techniques, he has investigated heat transport in complex hybrid materials such as metal-organic frameworks. Other areas of interest include the analysis phonon propagation and the development of highly accurate and computationally efficient machine-learning interatomic potentials, which are required to accelerate the demanding thermal conductiviy simulations.
+
+In the PULGON project, his main line of work involves modeling III-V semiconductor nanowires to understand the significance of scattering processes caused by interfaces and boundaries for heat transport.
